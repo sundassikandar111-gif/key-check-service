@@ -1,5 +1,5 @@
 {
-  "name": "key-check-service",
+  "name": "Login-Check",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
